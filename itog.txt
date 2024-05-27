@@ -1,0 +1,10 @@
+1) показать старые посты
+
+2) создать систему сохраненные посты (модель, марш-вид-шаблон)
+Связь с постом как один ко многим ForeignKey()
+
+3) Поменять текст кнопки с "избранное" на "Понравившиеся"
+
+4) Почитать про пагинацию в джанго
+https://django.fun/ru/docs/django/4.1/topics/pagination/
+https://proproprogs.ru/django/postranichnaya-navigaciya-paginaciya
